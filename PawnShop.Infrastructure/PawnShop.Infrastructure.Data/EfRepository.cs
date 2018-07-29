@@ -1,10 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PawnShop.Domain.Core.Entities;
 using PawnShop.Domain.Interfaces;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace PawnShop.Infrastructure.Data
 {

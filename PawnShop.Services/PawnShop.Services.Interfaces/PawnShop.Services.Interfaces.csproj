@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PawnShop.Domain.Core\PawnShop.Domain.Core.csproj" />
+    <ProjectReference Include="..\..\PawnShop.Domain\PawnShop.Domain.Core\PawnShop.Domain.Core.csproj" />
   </ItemGroup>
 
 </Project>

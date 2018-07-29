@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PawnShop.Domain.Core.Entities;
-using System;
 
 namespace PawnShop.Infrastructure.Data
 {

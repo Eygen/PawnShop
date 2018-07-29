@@ -1,6 +1,6 @@
 ﻿using PawnShop.Domain.Core.Entities;
 
-namespace PawnShop.Domain.Services.Interfaces
+namespace PawnShop.Services.Interfaces
 {
   public interface IPawnTicketService
   {
